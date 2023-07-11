@@ -1,0 +1,40 @@
+@media (prefers-color-scheme: dark) {
+    body {
+    background-color: #222;
+    color: #fefefe;
+    }
+    header{
+        background-color: rgb(153, 153, 153);
+    }
+    .sous a {
+        border-bottom: none;
+        background-color: rgb(153, 153, 153);;
+    }
+    hr:after {
+        background: #222;
+    }
+    .article{
+        background-color: gray;
+    }
+    a {
+    color: #5fa9ee;
+    }
+    img {
+    filter: grayscale(20%);
+    }
+    form {
+        background-color: gray;
+    }
+    th{
+        background-color: #222;
+    }
+    .bloc{
+        background-color: #222;
+    }
+    .dark{
+        background-color: gray;
+    }
+    .boite{
+        background-color: #222;
+    }
+    }
