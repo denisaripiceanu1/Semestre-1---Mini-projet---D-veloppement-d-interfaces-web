@@ -1,1 +1,1 @@
-# Semestre-1---Mini-projet---D-veloppement-d-interfaces-web
+# Semestre 1 - Mini-projet - Développement d'interfaces-web
